@@ -105,3 +105,6 @@ Students doing mini-projects
 Understanding string comparison and loops
 
 Basic console interaction programs
+
+<img width="769" height="446" alt="image" src="https://github.com/user-attachments/assets/b28bb418-9274-42bd-ab6e-f8d43b110eff" />
+
